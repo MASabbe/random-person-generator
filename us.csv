@@ -1,0 +1,11 @@
+First Name [Required],Last Name [Required],Email Address [Required],Password [Required],Password Hash Function [UPLOAD ONLY],Org Unit Path [Required],New Primary Email [UPLOAD ONLY],Recovery Email,Home Secondary Email,Work Secondary Email,Recovery Phone [MUST BE IN THE E.164 FORMAT],Work Phone,Home Phone,Mobile Phone,Work Address,Home Address,Employee ID,Employee Type,Employee Title,Manager Email,Department,Cost Center,Building ID,Floor Name,Floor Section,Change Password at Next Sign-In,New Status [UPLOAD ONLY],Advanced Protection Program enrollment
+Rosalina,Utami,Rosalina_Utami@circletrade.cloud,NasiKucing2022,,,/Online IT,,,,,,,,,,,,,,,,,,,,False,,False
+Cakrabirawa,Adhitama,Cakrabirawa_Adhitama@circletrade.cloud,NasiKucing2022,,,/Online IT,,,,,,,,,,,,,,,,,,,,False,,False
+Daru,Santoso,Daru_Santoso@circletrade.cloud,NasiKucing2022,,,/Online IT,,,,,,,,,,,,,,,,,,,,False,,False
+Utama,Simbolon,Utama_Simbolon@circletrade.cloud,NasiKucing2022,,,/Online IT,,,,,,,,,,,,,,,,,,,,False,,False
+Ina,Winarsih,Ina_Winarsih@circletrade.cloud,NasiKucing2022,,,/Online IT,,,,,,,,,,,,,,,,,,,,False,,False
+Halima,Salma,Halima_Salma@circletrade.cloud,NasiKucing2022,,,/Online IT,,,,,,,,,,,,,,,,,,,,False,,False
+Hartana,Sabian,Hartana_Sabian@circletrade.cloud,NasiKucing2022,,,/Online IT,,,,,,,,,,,,,,,,,,,,False,,False
+Zalindra,Yulianti,Zalindra_Yulianti@circletrade.cloud,NasiKucing2022,,,/Online IT,,,,,,,,,,,,,,,,,,,,False,,False
+Endah,Lailasari,Endah_Lailasari@circletrade.cloud,NasiKucing2022,,,/Online IT,,,,,,,,,,,,,,,,,,,,False,,False
+Mustofa,Pratama,Mustofa_Pratama@circletrade.cloud,NasiKucing2022,,,/Online IT,,,,,,,,,,,,,,,,,,,,False,,False
